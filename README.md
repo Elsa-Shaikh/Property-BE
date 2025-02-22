@@ -1,6 +1,6 @@
 # Property Management - Backend
 - The Property Management System is a simple backend system for managing properties and transactions efficiently. It is built using:
-- Nodejs _ typescript
+- Nodejs + typescript
 - Expressjs
 - Prisma ORM
 - PostgreSQL Database
